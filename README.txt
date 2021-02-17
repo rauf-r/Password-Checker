@@ -1,9 +1,9 @@
 
-You should use run the program from the command_prompt/terminal, do not run it in IDE.
+You should run the program from the command_prompt/terminal, do not run it in IDE.
 
 Your command shold look like this:
-
 python3  pswdcheck.py  password123
+
 
 #password123 - example of password you want to check
 
